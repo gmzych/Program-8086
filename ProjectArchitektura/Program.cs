@@ -14,7 +14,7 @@ namespace ProjectC
 
 
 
-            Console.Write("Prosze wprowadzic wartosc rejestru AA: ");
+            Console.Write("Prosze wprowadzic wartosc rejestru AX: ");
             string boxAX = Console.ReadLine();
 
             int axInt;
