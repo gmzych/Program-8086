@@ -65,7 +65,7 @@ namespace ProjectC
             Console.WriteLine($"1.CX: {register["CX"]}");
             Console.WriteLine($"1.DX: {register["DX"]}");
             Console.WriteLine();
-            Console.WriteLine("Wybierz swoje 2 rejestry na ktorych chcesz wykonac rozkaz");
+            Console.WriteLine("Wybierz swoje 2 rejestry na ktorych chcesz wykonac rozkaz mov");
             Console.WriteLine("AX, BX, CX, DX");
 
             int zmienna;
